@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Wode "Nimo" Ni
-permalink: /resume/
+permalink: /resumecopy/
 email:
   url: mailto:woden@cs.cmu.edu
   text: woden@cs.cmu.edu
